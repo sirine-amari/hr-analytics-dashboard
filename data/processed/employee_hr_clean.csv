@@ -1,0 +1,312 @@
+EmpID,Department,Position,Gender,Salary,PerformanceScore,Termd,Age,Absences,DaysLateLast30
+10026,Production       ,Production Technician I,M ,62506,Exceeds,0,42,1,0
+10084,IT/IS,Sr. DBA,M ,104437,Fully Meets,1,50,17,0
+10196,Production       ,Production Technician II,F,64955,Fully Meets,1,37,3,0
+10088,Production       ,Production Technician I,F,64991,Fully Meets,0,37,15,0
+10069,Production       ,Production Technician I,F,50825,Fully Meets,1,36,2,0
+10002,Production       ,Production Technician I,F,57568,Exceeds,0,48,15,0
+10194,Software Engineering,Software Engineer,F,95660,Fully Meets,0,46,19,0
+10062,Production       ,Production Technician I,M ,59365,Fully Meets,0,43,19,0
+10114,Production       ,Production Technician I,F,47837,Fully Meets,0,55,4,0
+10250,IT/IS,IT Support,M ,50178,Fully Meets,0,37,16,0
+10252,Production       ,Production Technician I,F,54670,Fully Meets,1,51,12,0
+10242,Production       ,Production Technician I,M ,47211,Fully Meets,1,-49,15,0
+10012,IT/IS,Data Analyst,M ,92328,Exceeds,0,37,9,0
+10265,Production       ,Production Technician I,M ,58709,Fully Meets,0,42,7,0
+10066,Production       ,Production Technician I,M ,52505,Fully Meets,1,48,1,0
+10061,Production       ,Production Technician I,M ,57834,Fully Meets,1,44,20,0
+10023,Production       ,Production Technician II,F,70131,Exceeds,0,-41,16,0
+10055,Production       ,Production Technician I,F,59026,Fully Meets,0,-45,12,0
+10245,IT/IS,Database Administrator,F,110000,Fully Meets,1,39,8,0
+10277,Production       ,Production Technician I,M ,53250,Fully Meets,0,46,13,0
+10046,Production       ,Production Technician I,M ,51044,Fully Meets,0,-45,13,0
+10226,Production       ,Production Technician I,F,64919,Fully Meets,0,-33,2,0
+10003,Production       ,Production Technician I,F,62910,Exceeds,0,37,19,0
+10294,Production       ,Production Technician II,F,66441,Needs Improvement,0,35,3,2
+10267,Production       ,Production Technician II,F,57815,Fully Meets,1,-41,5,0
+10199,IT/IS,Enterprise Architect,M ,103613,Fully Meets,1,-39,2,0
+10081,Admin Offices,Sr. Accountant,F,106367,Fully Meets,0,38,4,0
+10175,Production       ,Production Manager,M ,74312,Fully Meets,1,55,14,0
+10177,Production       ,Production Technician I,F,53492,Fully Meets,1,35,6,0
+10238,Admin Offices,Accountant I,F,63000,Fully Meets,0,38,14,0
+10184,Production       ,Production Technician II,M ,65288,Fully Meets,0,42,9,0
+10203,Production       ,Production Technician I,F,64375,Fully Meets,0,-44,17,0
+10188,Sales,Area Sales Manager,F,74326,Fully Meets,1,62,19,1
+10107,Production       ,Production Technician II,F,63763,Fully Meets,0,46,3,0
+10181,Production       ,Production Technician II,M ,62162,Fully Meets,0,48,15,0
+10150,Software Engineering,Software Engineering Manager,M ,77692,Fully Meets,0,-41,4,0
+10001,Production       ,Production Manager,M ,72640,Exceeds,0,42,14,0
+10085,Software Engineering,Software Engineer,F,93396,Fully Meets,0,38,3,0
+10115,Production       ,Production Technician I,M ,52846,Fully Meets,0,43,14,0
+10082,IT/IS,Sr. DBA,F,100031,Fully Meets,0,39,7,0
+10040,Sales,Area Sales Manager,F,71860,Fully Meets,0,-38,7,0
+10067,Production       ,Production Technician I,F,61656,Fully Meets,0,75,11,0
+10108,IT/IS,BI Director,M ,110929,Fully Meets,0,53,8,0
+10210,Production       ,Production Technician I,F,54237,Fully Meets,0,46,11,0
+10154,Production       ,Production Technician I,M ,60380,Fully Meets,0,42,4,0
+10200,Sales,Area Sales Manager,M ,66808,Fully Meets,0,55,17,0
+10240,Production       ,Production Technician I,F,64786,Fully Meets,1,42,3,0
+10168,Production       ,Production Technician I,F,64816,Fully Meets,0,37,3,0
+10220,IT/IS,IT Support,M ,68678,Fully Meets,0,40,2,0
+10275,Production       ,Production Technician II,F,64066,Fully Meets,1,44,9,0
+10269,Production       ,Production Technician II,M ,59369,Fully Meets,1,47,6,0
+10029,Production       ,Production Technician I,M ,50373,Exceeds,0,45,5,0
+10261,Production       ,Production Technician I,M ,63108,Fully Meets,0,48,3,0
+10292,Production       ,Production Technician I,M ,59144,Needs Improvement,1,46,16,5
+10282,Production       ,Production Manager,M ,68051,Needs Improvement,0,-50,3,3
+10019,Production       ,Director of Operations,M ,170500,Exceeds,0,42,15,0
+10094,Production       ,Production Technician I,F,63381,Fully Meets,0,48,6,0
+10193,IT/IS,Data Analyst,M ,83552,Fully Meets,0,39,2,0
+10132,Production       ,Production Technician I,F,56149,Fully Meets,0,38,15,0
+10083,IT/IS,Sr. Network Engineer,M ,92329,Fully Meets,0,60,5,0
+10099,Sales,Sales Manager,F,65729,Fully Meets,0,35,8,0
+10212,IT/IS,Sr. Network Engineer,F,85028,Fully Meets,0,-26,19,0
+10056,Production       ,Production Technician I,F,57583,Fully Meets,0,47,1,0
+10143,Production       ,Production Technician II,M ,56294,Fully Meets,0,46,6,0
+10311,Production       ,Production Technician I,M ,56991,Fully Meets,0,37,2,2
+10070,Production       ,Production Technician I,M ,55722,Fully Meets,1,48,14,0
+10155,Software Engineering,Software Engineer,F,101199,Fully Meets,0,46,8,0
+10306,Sales,Area Sales Manager,M ,61568,PIP,0,51,5,6
+10100,Production       ,Production Technician II,F,58275,Fully Meets,1,-26,1,0
+10310,Production       ,Production Technician I,M ,53189,PIP,0,-42,9,4
+10197,IT/IS,BI Developer,M ,96820,Fully Meets,0,42,15,0
+10276,Production       ,Production Technician I,M ,51259,Fully Meets,0,43,1,0
+10304,Sales,Area Sales Manager,F,59231,PIP,0,38,17,2
+10284,Production       ,Production Technician I,F,61584,Needs Improvement,0,48,6,0
+10207,Production       ,Production Technician I,F,46335,Fully Meets,0,39,15,0
+10133,IT/IS,IT Support,F,70621,Fully Meets,0,37,16,0
+10028,IT/IS,IT Manager - Support,M ,138888,Exceeds,0,55,4,0
+10006,Sales,Area Sales Manager,F,74241,Exceeds,0,37,14,0
+10105,Production       ,Production Manager,F,75188,Fully Meets,0,-48,4,0
+10211,Production       ,Production Technician I,F,62514,Fully Meets,0,-48,6,0
+10064,Production       ,Production Technician I,F,60070,Fully Meets,1,34,7,0
+10247,Production       ,Production Technician I,M ,48888,Fully Meets,0,-49,8,0
+10235,Production       ,Production Technician I,M ,54285,Fully Meets,0,47,3,0
+10299,Production       ,Production Technician II,F,56847,PIP,0,36,5,2
+10280,Production       ,Production Technician I,M ,60340,Needs Improvement,1,43,16,5
+10296,Production       ,Production Technician I,F,59124,Needs Improvement,1,36,19,5
+10290,Software Engineering,Software Engineer,F,99280,Needs Improvement,1,38,19,4
+10263,Production       ,Production Technician II,F,71776,Fully Meets,0,47,17,0
+10136,Production       ,Production Technician II,F,65902,Fully Meets,0,38,7,0
+10189,Production       ,Production Technician I,F,57748,Fully Meets,1,-30,16,0
+10308,Production       ,Production Technician I,M ,64057,PIP,0,36,15,6
+10309,IT/IS,Network Engineer,M ,53366,PIP,0,38,2,3
+10049,Production       ,Production Technician I,F,58530,Fully Meets,0,44,19,0
+10093,Production       ,Production Technician II,M ,72609,Fully Meets,1,45,20,0
+10163,Production       ,Production Technician II,F,55965,Fully Meets,1,42,6,0
+10305,Sales,Area Sales Manager,M ,70187,PIP,1,50,7,4
+10015,IT/IS,IT Director,M ,178000,Exceeds,0,45,15,0
+10080,Admin Offices,Sr. Accountant,F,99351,Fully Meets,0,46,3,0
+10258,Sales,Area Sales Manager,M ,67251,Fully Meets,0,-38,7,2
+10273,IT/IS,IT Support,F,65707,Fully Meets,0,57,1,0
+10111,Production       ,Production Technician I,M ,52249,Fully Meets,0,40,5,0
+10257,Production       ,Production Technician I,F,53171,Fully Meets,0,43,12,0
+10159,Production       ,Production Technician I,F,51337,Fully Meets,0,36,19,0
+10122,Production       ,Production Technician I,F,51505,Fully Meets,1,-45,2,0
+10142,Sales,Area Sales Manager,F,59370,Fully Meets,1,54,7,0
+10283,Production       ,Production Technician I,M ,54933,Needs Improvement,1,51,15,3
+10018,Production       ,Production Technician I,F,57815,Exceeds,0,45,3,0
+10255,Sales,Area Sales Manager,F,61555,Fully Meets,0,36,20,0
+10246,IT/IS,Database Administrator,F,114800,Fully Meets,1,-46,10,0
+10228,IT/IS,IT Support,M ,74679,Fully Meets,0,36,20,0
+10243,Production       ,Production Technician I,F,53018,Fully Meets,0,33,7,0
+10031,Production       ,Production Technician I,M ,59892,Exceeds,0,-44,1,0
+10300,Production       ,Production Technician II,M ,68898,PIP,1,61,10,3
+10101,IT/IS,IT Support,F,61242,Fully Meets,0,44,11,0
+10237,Production       ,Production Technician II,F,66825,Fully Meets,0,39,20,0
+10051,Production       ,Production Technician I,M ,48285,Fully Meets,0,46,2,0
+10218,Production       ,Production Technician II,F,66149,Fully Meets,0,42,1,0
+10256,Production       ,Production Technician I,F,49256,Fully Meets,0,51,3,0
+10098,Production       ,Production Manager,M ,62957,Fully Meets,0,44,2,0
+10059,Production       ,Production Technician I,F,63813,Fully Meets,1,42,17,0
+10234,IT/IS,BI Developer,M ,99020,Fully Meets,0,36,8,0
+10109,Sales,Area Sales Manager,M ,71707,Fully Meets,1,56,20,0
+10125,Production       ,Production Technician I,F,54828,Fully Meets,0,48,13,0
+10074,Production       ,Production Technician II,M ,64246,Fully Meets,0,37,20,0
+10097,Production       ,Production Technician I,F,52177,Fully Meets,1,-27,8,0
+10007,Production       ,Production Technician I,F,62065,Exceeds,0,52,5,0
+10129,Production       ,Production Technician I,M ,46998,Fully Meets,0,41,1,0
+10075,Production       ,Production Technician II,F,68099,Fully Meets,1,-47,15,0
+10167,Sales,Area Sales Manager,M ,70545,Fully Meets,0,37,9,0
+10195,Production       ,Production Technician II,F,63478,Fully Meets,1,42,16,0
+10112,IT/IS,Database Administrator,F,97999,Fully Meets,0,42,4,0
+10272,Sales,Director of Sales,F,180000,Fully Meets,0,-41,19,0
+10182,Admin Offices,Administrative Assistant,F,49920,Fully Meets,1,40,6,0
+10248,Production       ,Production Technician I,F,55425,Fully Meets,0,39,4,0
+10201,Production       ,Production Technician II,F,69340,Fully Meets,0,41,4,0
+10214,Production       ,Production Technician II,F,64995,Fully Meets,0,33,6,0
+10160,Production       ,Production Technician II,F,68182,Fully Meets,1,49,18,0
+10289,Production       ,Production Manager,M ,83082,Needs Improvement,1,49,4,3
+10139,Production       ,Production Technician I,F,51908,Fully Meets,0,35,14,0
+10227,Production       ,Production Technician I,F,61242,Fully Meets,0,53,7,0
+10236,Production       ,Production Technician I,F,45069,Fully Meets,0,-41,7,0
+10009,Production       ,Production Technician II,F,60724,Exceeds,0,39,11,0
+10060,Production       ,Production Technician I,F,60436,Fully Meets,0,-39,9,0
+10034,Production       ,Production Technician I,M ,46837,Exceeds,1,-34,9,0
+10156,IT/IS,Database Administrator,F,105700,Fully Meets,0,39,2,0
+10036,Production       ,Production Technician II,F,63322,Exceeds,0,56,1,0
+10138,Production       ,Production Technician I,F,61154,Fully Meets,1,39,4,0
+10244,Sales,Sales Manager,F,68999,Fully Meets,1,36,2,0
+10192,Production       ,Production Technician I,M ,50482,Fully Meets,0,50,10,0
+10231,Sales,Area Sales Manager,M ,65310,Fully Meets,0,46,13,0
+10089,Executive Office,President & CEO,F,250000,Fully Meets,0,-29,10,0
+10166,Production       ,Production Technician I,F,54005,Fully Meets,1,52,16,0
+10170,Production       ,Production Technician I,F,45433,Fully Meets,1,55,6,0
+10208,Production       ,Production Technician I,M ,46654,Fully Meets,0,48,3,0
+10176,Production       ,Production Technician I,M ,63973,Fully Meets,0,46,17,0
+10165,Sales,Area Sales Manager,M ,71339,Fully Meets,0,-44,20,0
+10113,IT/IS,Sr. Network Engineer,M ,93206,Fully Meets,0,39,7,0
+10092,Production       ,Production Manager,M ,82758,Fully Meets,1,54,9,0
+10106,Production       ,Production Technician II,F,66074,Fully Meets,1,46,20,0
+10052,Production       ,Production Technician I,M ,46120,Fully Meets,0,39,13,0
+10038,Admin Offices,Accountant I,M ,64520,Fully Meets,0,41,3,0
+10249,Production       ,Production Technician II,M ,61962,Fully Meets,1,41,20,0
+10232,IT/IS,Senior BI Developer,F,81584,Fully Meets,0,38,2,0
+10087,Production       ,Production Technician I,F,63676,Fully Meets,1,47,17,0
+10134,Admin Offices,Shared Services Manager,M ,93046,Fully Meets,0,41,20,0
+10251,Production       ,Production Technician I,M ,64738,Fully Meets,0,44,10,0
+10103,Sales,Area Sales Manager,M ,70468,Fully Meets,0,37,16,0
+10017,Production       ,Production Manager,F,77915,Exceeds,0,44,11,0
+10186,Production       ,Production Technician I,F,52624,Fully Meets,1,44,16,0
+10137,Production       ,Production Technician II,M ,63450,Fully Meets,0,46,7,0
+10008,IT/IS,IT Support,F,51777,Exceeds,0,37,14,0
+10096,Production       ,Production Technician II,F,67237,Fully Meets,1,49,15,0
+10035,Production       ,Production Technician II,F,73330,Exceeds,0,43,19,0
+10057,Production       ,Production Technician I,F,52057,Fully Meets,0,-50,6,0
+10004,Production       ,Production Technician I,F,47434,Exceeds,1,-48,17,0
+10191,Production       ,Production Technician I,M ,52788,Fully Meets,1,53,18,0
+10219,Production       ,Production Technician I,F,45395,Fully Meets,0,39,14,0
+10077,Production       ,Production Technician II,F,62385,Fully Meets,0,49,4,0
+10073,Production       ,Production Technician II,F,68407,Fully Meets,1,39,16,0
+10279,Production       ,Production Technician I,F,61349,Fully Meets,0,51,11,0
+10110,Software Engineering,Software Engineer,F,105688,Fully Meets,0,38,14,0
+10053,Production       ,Production Technician I,F,54132,Fully Meets,0,48,8,0
+10076,Production       ,Production Technician II,F,55315,Fully Meets,0,38,16,0
+10145,Production       ,Production Technician I,F,62810,Fully Meets,0,38,20,0
+10202,Sales,Area Sales Manager,M ,63291,Fully Meets,0,42,7,0
+10128,Production       ,Production Technician I,F,62659,Fully Meets,1,-43,17,0
+10068,Production       ,Production Technician I,F,55688,Fully Meets,0,49,10,0
+10116,Production       ,Production Manager,M ,83667,Fully Meets,0,44,2,0
+10298,Production       ,Production Technician II,M ,55800,PIP,1,40,6,6
+10213,Production       ,Production Technician II,M ,58207,Fully Meets,0,33,14,0
+10288,IT/IS,IT Manager - Infra,M ,157000,Needs Improvement,0,39,13,4
+10025,Production       ,Production Technician II,F,72460,Exceeds,0,-45,1,0
+10223,Production       ,Production Technician II,M ,72106,Fully Meets,0,49,12,0
+10151,IT/IS,Network Engineer,F,52599,Fully Meets,0,46,6,0
+10254,Production       ,Production Technician I,F,63430,Fully Meets,0,41,18,0
+10120,Production       ,Production Technician II,M ,74417,Fully Meets,0,52,11,0
+10216,Production       ,Production Technician I,M ,57575,Fully Meets,0,45,13,0
+10079,IT/IS,Senior BI Developer,M ,87921,Fully Meets,0,-45,17,0
+10215,Production       ,Production Technician I,M ,50470,Fully Meets,1,37,19,0
+10185,Production       ,Production Technician I,M ,46664,Fully Meets,1,42,10,0
+10063,Production       ,Production Technician I,M ,48495,Fully Meets,0,48,11,0
+10037,Production       ,Production Technician I,F,52984,Exceeds,0,59,12,0
+10042,Sales,Area Sales Manager,F,63695,Fully Meets,0,36,2,0
+10206,Production       ,Production Technician I,F,62061,Fully Meets,0,41,4,0
+10104,Production       ,Production Technician II,F,66738,Fully Meets,0,40,5,0
+10303,Production       ,Production Technician I,F,52674,PIP,1,45,3,6
+10078,Production       ,Production Technician II,F,71966,Fully Meets,1,73,17,0
+10121,Sales,Area Sales Manager,F,63051,Fully Meets,0,35,1,0
+10021,Production       ,Production Technician I,M ,47414,Exceeds,0,49,13,0
+10281,Production       ,Production Technician I,M ,53060,Needs Improvement,0,46,6,4
+10041,Sales,Area Sales Manager,M ,68829,Fully Meets,0,43,18,0
+10148,Production       ,Production Technician I,F,63515,Fully Meets,1,47,7,0
+10005,Software Engineering,Software Engineer,M ,108987,Exceeds,1,47,13,0
+10259,IT/IS,Data Analyst,M ,93093,Fully Meets,1,41,19,0
+10286,Production       ,Production Technician I,M ,53564,Needs Improvement,1,37,15,4
+10297,Production       ,Production Technician II,F,60270,Needs Improvement,1,36,2,5
+10171,Production       ,Production Technician I,F,45998,Fully Meets,1,39,5,0
+10032,Production       ,Production Technician II,F,57954,Exceeds,1,39,12,0
+10130,Production       ,Production Manager,F,74669,Fully Meets,1,48,6,0
+10217,Production       ,Production Technician II,F,74226,Fully Meets,0,46,14,0
+10016,IT/IS,Data Analyst,F,93554,Exceeds,0,41,16,0
+10050,Production       ,Production Technician I,M ,64724,Fully Meets,1,37,13,0
+10164,Production       ,Production Technician I,M ,47001,Fully Meets,0,44,15,0
+10124,Sales,Area Sales Manager,F,61844,Fully Meets,0,37,9,0
+10187,Production       ,Production Technician I,F,46799,Fully Meets,1,41,14,0
+10225,Production       ,Production Technician I,M ,59472,Fully Meets,0,-36,14,0
+10262,Production       ,Production Technician I,F,46430,Fully Meets,1,-45,16,0
+10131,Software Engineering,Software Engineer,M ,83363,Fully Meets,1,41,4,0
+10239,IT/IS,BI Developer,F,95920,Fully Meets,0,45,10,0
+10152,Production       ,Production Technician I,M ,61729,Fully Meets,1,41,19,0
+10140,Sales,Area Sales Manager,M ,61809,Fully Meets,0,71,4,0
+10058,Production       ,Production Technician I,M ,45115,Fully Meets,1,43,11,0
+10011,Production       ,Production Technician I,F,46738,Exceeds,0,52,16,0
+10230,Production       ,Production Technician II,F,64971,Fully Meets,1,44,10,0
+10224,Production       ,Production Technician II,M ,55578,Fully Meets,1,54,13,0
+10047,Production       ,Production Technician I,M ,50428,Fully Meets,1,51,11,0
+10285,Production       ,Production Technician I,F,61422,Needs Improvement,1,40,16,4
+10020,Production       ,Production Technician I,M ,63353,Exceeds,0,41,4,0
+10162,IT/IS,Data Analyst,F,89883,Fully Meets,0,44,15,0
+10149,IT/IS,Principal Data Architect,F,120000,Fully Meets,1,-48,12,0
+10086,IT/IS,Data Architect,F,150290,Fully Meets,0,-47,17,0
+10054,Production       ,Production Technician I,F,60627,Fully Meets,0,51,8,0
+10065,Production       ,Production Technician I,M ,53180,Fully Meets,1,38,4,0
+10198,IT/IS,IT Manager - DB,M ,140920,Fully Meets,0,52,13,0
+10222,IT/IS,IT Manager - DB,M ,148999,Fully Meets,1,61,8,0
+10126,Software Engineering,Software Engineer,F,86214,Fully Meets,0,39,2,0
+10295,Production       ,Production Technician I,F,47750,Needs Improvement,0,57,4,5
+10260,Production       ,Production Technician I,M ,46428,Fully Meets,1,-49,7,0
+10233,Production       ,Production Technician II,M ,57975,Fully Meets,0,39,13,0
+10229,IT/IS,Data Analyst ,M ,88527,Fully Meets,1,38,2,0
+10169,Production       ,Production Technician I,F,56147,Fully Meets,0,37,2,0
+10071,Production       ,Production Technician I,F,50923,Fully Meets,0,50,14,0
+10179,IT/IS,Network Engineer,F,50750,Fully Meets,0,44,7,0
+10091,Production       ,Production Technician I,F,52087,Fully Meets,0,40,15,0
+10178,IT/IS,Data Analyst,M ,87826,Fully Meets,0,55,16,0
+10039,Admin Offices,Administrative Assistant,F,51920,Fully Meets,0,37,2,0
+10095,Production       ,Production Technician II,F,63878,Fully Meets,1,38,20,0
+10027,Production       ,Production Technician II,M ,60656,Exceeds,0,-38,4,0
+10291,Sales,Sales Manager,M ,72992,Needs Improvement,0,41,16,2
+10153,Admin Offices,Administrative Assistant,F,55000,Fully Meets,1,38,17,0
+10157,Production       ,Production Technician I,F,58939,Fully Meets,0,61,16,0
+10119,IT/IS,IT Support,F,66593,Fully Meets,0,52,19,0
+10180,IT/IS,Sr. Network Engineer,M ,87565,Fully Meets,0,42,13,0
+10302,Production       ,Production Technician I,F,64021,PIP,0,-43,20,6
+10090,Production       ,Production Manager,F,65714,Fully Meets,0,-50,15,0
+10030,Production       ,Production Technician I,F,62425,Exceeds,1,-48,16,0
+10278,Production       ,Production Technician I,F,47961,Fully Meets,0,43,9,0
+10307,Sales,Area Sales Manager,M ,58273,PIP,0,51,5,3
+10147,Admin Offices,Accountant I,M ,63003,Fully Meets,0,40,9,0
+10266,Production       ,Production Technician I,M ,61355,Fully Meets,0,40,4,0
+10241,Sales,Area Sales Manager,F,60120,Fully Meets,0,36,18,0
+10158,Production       ,Production Manager,F,63682,Fully Meets,0,47,12,0
+10117,Production       ,Production Technician I,M ,63025,Fully Meets,0,43,10,0
+10209,Production       ,Production Technician I,F,59238,Fully Meets,0,-43,13,0
+10024,Software Engineering,Software Engineer,M ,92989,Exceeds,0,42,1,0
+10173,IT/IS,BI Developer,M ,90100,Fully Meets,0,38,14,0
+10221,Production       ,Production Technician I,F,60754,Fully Meets,1,51,11,0
+10146,Production       ,Production Technician II,F,72202,Fully Meets,1,-28,3,0
+10161,Sales,Area Sales Manager,F,58370,Fully Meets,0,60,18,0
+10141,Production       ,Production Technician I,F,48413,Fully Meets,1,60,1,0
+10268,Production       ,Production Technician II,M ,67176,Fully Meets,1,-50,15,0
+10123,Production       ,Production Technician I,F,56339,Fully Meets,0,58,4,0
+10013,Sales,Area Sales Manager,M ,64397,Exceeds,0,-42,6,0
+10287,Production       ,Production Technician I,F,63025,Needs Improvement,0,42,18,4
+10044,IT/IS,Network Engineer,M ,75281,Fully Meets,1,37,11,0
+10102,Software Engineering,Software Engineer,M ,100416,Fully Meets,1,42,9,0
+10270,Production       ,Production Technician II,F,74813,Fully Meets,1,40,5,0
+10045,IT/IS,Network Engineer,M ,76029,Fully Meets,0,-44,8,0
+10205,Sales,Area Sales Manager,F,57859,Fully Meets,0,34,16,0
+10014,Production       ,Production Technician I,M ,58523,Exceeds,1,39,15,0
+10144,Production       ,Production Manager,M ,88976,Fully Meets,0,57,19,0
+10253,Sales,Area Sales Manager,M ,55875,Fully Meets,0,36,11,0
+10118,IT/IS,Database Administrator,M ,113999,Fully Meets,1,39,9,0
+10022,Production       ,Production Technician I,F,49773,Exceeds,1,39,18,0
+10183,Production       ,Production Technician I,F,62068,Fully Meets,0,40,7,0
+10190,Production       ,Production Technician II,M ,66541,Fully Meets,0,49,4,0
+10274,Production       ,Production Manager,F,80512,Fully Meets,1,-30,5,0
+10293,Production       ,Production Technician I,F,50274,Needs Improvement,1,46,13,6
+10172,IT/IS,Senior BI Developer,M ,84903,Fully Meets,0,44,17,0
+10127,IT/IS,Sr. Network Engineer,F,107226,Fully Meets,0,48,7,0
+10072,Production       ,Production Technician I,M ,58371,Fully Meets,1,38,11,0
+10048,Production       ,Production Technician I,M ,55140,Fully Meets,1,60,7,0
+10204,Production       ,Production Technician I,F,58062,Fully Meets,1,42,9,0
+10264,Production       ,Production Technician I,F,59728,Fully Meets,1,57,16,0
+10033,Production       ,Production Technician II,M ,70507,Exceeds,1,67,7,0
+10174,Production       ,Production Technician II,F,60446,Fully Meets,0,40,14,0
+10135,Production       ,Production Technician II,M ,65893,Fully Meets,0,40,13,0
+10301,Production       ,Production Technician I,F,48513,PIP,1,43,4,5
+10010,IT/IS,CIO,F,220450,Exceeds,0,46,16,0
+10043,IT/IS,Data Analyst,F,89292,Fully Meets,0,47,11,0
+10271,Production       ,Production Technician I,F,45046,Fully Meets,0,47,2,0
