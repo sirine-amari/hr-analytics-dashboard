@@ -11,8 +11,8 @@ def transform(df):
     df["DOB"] = pd.to_datetime(df["DOB"], errors="coerce", format="mixed")
     invalid_dob = df["DOB"].isna().sum()
     print(f"[INFO] Dates de naissance invalides (NaT) : {invalid_dob}")
-    df["Age"] = (pd.Timestamp("today") - df["DOB"]).dt.days // 365
-
+    df["Age"] = pd.Timestamp.today().year - df["DOB"].dt.year
+    df = df[(df["Age"] > 0) & (df["Age"] < 80)]
     df = df[
         [
             "EmpID",
